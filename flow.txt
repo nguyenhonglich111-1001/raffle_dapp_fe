@@ -1,0 +1,17 @@
+yarn create next-app .  (Create next js project)
+
+copy .prettierrc, .prettierignore from repo => yarn add --dev prettier
+
+create folder components
+in components create Header.jsx
+
+yarn add moralis react-moralis
+
+create components/Header.js
+yarn add web3uikit
+
+create components\LotteryEntrance
+
+create constants folder
+	abi.json
+	contractAddress.json
